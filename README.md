@@ -256,19 +256,4 @@ The solution follows DevOps security best practices:
 
 ---
 
-# Future Improvements
 
-Possible enhancements:
-
-* Compress logs before uploading
-* Add log rotation
-* Upload logs to date-based S3 folders
-* Add CloudWatch monitoring
-* Use Lambda instead of cron
-
----
-
-# Author
-
-Srivenkatesh
-DevOps Intern Assessment Project
